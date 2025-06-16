@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 from datetime import datetime
 
-botToken = "7079073146:AAGT4kC-hn4uPfYXnqT0BjoOvyTD2sm-_MQ"
+botToken = "yourTOKEN"
 bot = telebot.TeleBot(botToken)
 
 baseFolderPath = "./folders"
